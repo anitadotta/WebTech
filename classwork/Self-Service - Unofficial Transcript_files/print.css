@@ -1,0 +1,163 @@
+﻿body {
+	font: normal 100% arial, sans-serif;
+	margin:0px;
+	padding:0px;
+}
+a,
+a:link, 
+a:active,
+a:visited,
+a:hover {
+	color:#000;
+	text-decoration:none;
+	cursor:default;
+}
+
+h1 {
+	font-size:14pt; font-weight:bold; font-family:Georgia, Times New Roman;
+}
+h2 {
+	font: bold 12pt Arial, helvetica, Sans-Serif;
+	margin:0px;
+	padding:0px;
+}
+
+
+#globalPopupHeader {
+	width:100%;
+	height:49px;
+	background-image:url(../../App_Themes/Default/Images/popup_header_bg.gif);
+	font-size:.75em;
+}
+#globalNavPopup {
+	padding: 4px 10px 0px;
+	height:25px;
+	width:24em;
+	background:url(../../App_Themes/Default/Images/popup_global_nav_bg.jpg) no-repeat top right;
+	text-align:right;
+	float:right;
+}
+#globalNavPopup a:link,
+#globalNavPopup a:active,
+#globalNavPopup a:visited {
+	padding-left:20px;
+	padding-right:20px;
+	color:#000;
+	font-weight:bold;
+	text-decoration:none;
+	cursor:pointer;
+}
+
+#globalNavPopup a:hover { text-decoration:underline; }
+.logoPopup {position:relative; top:7px; left:7px; float:left;}
+
+.defaultTable { font-size:8pt; }
+.defaultTable th {
+	text-align:left;
+	vertical-align:bottom;
+	border-bottom:1px #000 solid;
+}
+
+/*
+.defaultTable td {
+	border-bottom:1px #dfeaf0 solid;
+}
+.defaultTable .noBorder td,
+.defaultTable .trTableFooter td {
+	border-width:0px;
+	border-style:none;
+}
+
+*/
+
+.defaultTable .trTableFooter td {
+	border-top:1px #000 solid;
+}
+
+.defaultTable .thNumAlign {
+	text-align:right;
+}
+
+.defaultTable .tdNumAlign {
+	text-align:right;
+	padding-right:2em;
+}
+
+
+
+.verticalTable {
+	font-size:10pt;
+}
+
+.verticalTable th {
+	color:#00355e;
+	font-size:9pt;
+	border-bottom:1px #000 solid;
+}
+.verticalTable td {
+	font-size:9pt;
+}
+
+.verticalTable th,
+.verticalTable td {
+	padding:4px 4px 0px 4px;
+}
+
+.verticalTable th.sub {
+	font-size:8pt;
+	color:#666;
+	text-align:right;
+	padding-right:1em;
+	padding-left:1em;
+	padding-top:.5em;
+	border-bottom-width:0;
+}
+
+.newLineIndent {
+	display:block;
+	margin-left:2em;
+}
+
+
+.divHeader{ font-family:Arial, sans-serif; clear:both; text-transform:uppercase; color:#667; font-weight:bold; border-bottom:1px #ddd solid; width:98%; margin-bottom:3px; padding:0px 0px 3px 0px; }
+.divCols { float:left; padding:0px 20px 4px 0px; width:30%; color:#445; }
+.divCols50 { float:left; padding:0px 20px 4px 0px; width:45%; color:#445; }
+
+.commentText { font:normal 8pt georgia }
+.dataLabel { font-weight:bold; font-family:Arial, sans-serif; }
+
+
+
+.ulNoStyle {margin:0px; padding:0px; list-style-type:none; }
+.clCourseInfo {
+	margin:0px;
+	padding:0px 0px 10px 0px;
+	font:normal 9pt Georgia, times new roman, sans-serif;
+}
+
+.waitlistThumbnail {
+	float:left;
+}
+
+.classListThumbnail {
+	margin-right:10px;
+	vertical-align:middle;
+	border:1px #000 solid;
+}
+
+.noBorder {}
+
+.warningRow, .warningRow td  { background-color:#fafbff; border-bottom:1px #dfeaf0 solid; }	 
+.warningRow, .warningRow input { font-weight:normal; }
+.warningRow .colDataL,
+.warningRow .colDataC,
+.warningRow .colDataR { background-color:#fafbff; }
+.warningCell, .warningCell input { color:#fa9849; font-weight:bold; }
+
+/* Image View */
+#classListImageView { clear:both; font-size:.7em; }
+#classListImageView ul { list-style:none; margin:0px; padding:0px; }
+#classListImageView ul li { float:left; width:100px; height:120px; padding:15px 15px 15px 15px; text-align:center; }
+#classListImageView ul li img {
+	border:1px #000 solid;
+}

@@ -1,0 +1,179 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!-- saved from url=(0070)https://iqweb.babson.edu/SelfService/Records/TranscriptsPrintable.aspx -->
+<html id="ctl00_Html1" xmlns="http://www.w3.org/1999/xhtml" dir="LTR"><head id="ctl00_pageHeader"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link href="./Self-Service - Unofficial Transcript_files/print.css" type="text/css" rel="stylesheet"><title>
+	Self-Service - Unofficial Transcript
+</title>
+<!--[if IE 6]>
+		<link rel='stylesheet' type='text/css' href='https://iqweb.babson.edu/SelfService//SiteResources/css/fix_ie6.css'>
+	<![endif]-->
+<!--[if IE 7]>
+		<link rel='stylesheet' type='text/css' href='https://iqweb.babson.edu/SelfService//SiteResources/css/fix_ie7.css'>
+	<![endif]-->
+<link rel="stylesheet" type="text/css" href="./Self-Service - Unofficial Transcript_files/print(1).css" media="print"> 
+
+
+	
+	<script type="text/javascript" language="javascript">
+
+		function printThenRestore() {
+			hideChrome();
+			self.print();
+			setTimeout("restoreChrome()", "1000");
+		}
+
+		function restoreChrome() {
+			document.getElementById("globalPopupHeader").style.display = "block";
+		}
+
+		function hideChrome() {
+			document.getElementById("globalPopupHeader").style.display = "none";
+		}
+		
+	</script>
+</head>
+<body>
+    <form name="aspnetForm" method="post" action="https://iqweb.babson.edu/SelfService/Records/TranscriptsPrintable.aspx" id="aspnetForm">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE3NTc3OTk3MTkPZBYCZg9kFgICAQ9kFgQCAQ9kFgICAw9kFgRmDxYCHgRUZXh0BZMBPCEtLVtpZiBJRSA2XT4NCgkJPGxpbmsgcmVsPSdzdHlsZXNoZWV0JyB0eXBlPSd0ZXh0L2NzcycgaHJlZj0naHR0cHM6Ly9pcXdlYi5iYWJzb24uZWR1L1NlbGZTZXJ2aWNlLy9TaXRlUmVzb3VyY2VzL2Nzcy9maXhfaWU2LmNzcyc+DQoJPCFbZW5kaWZdLS0+ZAICDxYCHwAFkwE8IS0tW2lmIElFIDddPg0KCQk8bGluayByZWw9J3N0eWxlc2hlZXQnIHR5cGU9J3RleHQvY3NzJyBocmVmPSdodHRwczovL2lxd2ViLmJhYnNvbi5lZHUvU2VsZlNlcnZpY2UvL1NpdGVSZXNvdXJjZXMvY3NzL2ZpeF9pZTcuY3NzJz4NCgk8IVtlbmRpZl0tLT5kAgMPZBYCAgsPZBYCAgEPDxYCHgdWaXNpYmxlaGQWBGYPD2QPEBYDZgIBAgIWAxYCHg5QYXJhbWV0ZXJWYWx1ZWQWAh8CZBYCHwJkFgMCAwIDAgNkZAICDxYEHgtfIUl0ZW1Db3VudGYfAWgWBGYPZBYEZg8VATFBIGxpc3Qgb2YgcmVhc29ucyBmb3IgYSBTdG9wIGFnYWluc3QgdGhlIGFjY291bnQuZAIBDxYCHwFoZAIBD2QWAmYPFQF+WW91ciBhY2NvdW50IGlzIGN1cnJlbnRseSBvbiB0aGUgU3RvcCBMaXN0LiBZb3UgY2Fubm90IHZpZXcgeW91ciB1bm9mZmljaWFsIHRyYW5zY3JpcHQgdW50aWwgdGhpcyBzaXR1YXRpb24gaGFzIGJlZW4gcmVzb2x2ZWQuZBgBBTxjdGwwMCRtYWluQ29udGVudCR1Y1RyYW5zY3JpcHQkVW5PZmZpY2lhbFRyYW5zY3JpcHRNdWx0aVZpZXcPD2RmZA==">
+</div>
+
+    <div id="globalPopupHeader">
+		<img src="./Self-Service - Unofficial Transcript_files/popup_logo.gif" id="ctl00_PopupLogoSGHE" class="logoPopup">
+        <div id="globalNavPopup">
+			<a onclick="printThenRestore()" href="javascript:void(0);">
+                Print
+            </a>
+			<a href="javascript:window.close();">
+			    Close X
+			</a>
+        </div>
+    </div>
+    	
+	<div style="margin:0px 30px">
+		<h1></h1>
+		<h4 class="pageinstructions">
+		    Here is your unofficial transcript, sorted by academic year and term.
+        </h4>
+	    
+	<div style="text-align: center">
+		
+	</div>
+      
+        <br>
+	
+<div style="text-align: center; font-weight:bold; font-size: 130%">
+	<br>
+	<span id="ctl00_mainContent_ucTranscript_lblHeader" class="leveloneheader" style="display:inline-block;width:100%;">Unofficial Transcript</span>
+</div>
+<br>
+
+		<div xmlns:ms="urn:schemas-microsoft-com:xslt"><div><div align="center"><table cellspacing="0"><tbody><tr style="font-weight: bold"><td align="left">Babson College<br>Office of the Registrar</td></tr><tr><td align="left"><br>Babson Park, MA 02457</td></tr></tbody></table><br><br><br></div></div><div><table border="0" class="text75em" cellpadding="4" cellspacing="0" width="100%" style="table-layout:fixed"><tbody><tr><td style="word-wrap:break-word;" colspan="3">Name: Dotta,&nbsp;Maria&nbsp;Anita&nbsp;Cimino</td><td> DOB:Apr 19</td></tr></tbody></table><table border="0" class="text75em" cellpadding="4" cellspacing="0" width="100%" style="table-layout:fixed"><tbody><tr class="trTableHeader"><td align="left">Program/Degree/Curriculum:</td><td align="left">Degree Awarded:</td><td align="left">Date Granted:</td></tr><tr><td>Undergraduate/BS/Bachelor of Science</td><td>No Degree Awarded Yet</td><td></td></tr><tr class="noBorder"><td>Undergraduate/BS/Marketing Concentration</td><td>No Degree Awarded Yet</td><td></td></tr><tr><td><br></td></tr><tr><td>Honors:</td><td>Cumulative GPA: 2.55</td></tr><tr><td><br></td></tr><tr><td>Previous Institution:<br></td></tr><tr class="noBorder"><td> Vivian Webb School, High School Diploma</td></tr></tbody></table></div><div><div><h2 class="transcripts">2015 Fall (8/31/2015 - 12/19/2015)</h2></div><div><div><h3 class="transHeader3">Babson College</h3></div><table width="100%" cellpadding="4" cellspacing="0" class="defaultTable" border="0" summary=""><tbody><tr class="trTableHeader"><th>Course</th><th>Title</th><th>Sub Type</th><th>Grade</th><th class="numAlign">Credits</th><th class="numAlign">Quality Points</th></tr><tr><td>FME1000</td><td>FOUNDS MGMT &amp; EPS</td><td>Lect</td><td>C+</td><td class="numAlign">3.00</td><td class="numAlign">6.99</td></tr><tr><td>FYS1000</td><td>FIRST YEAR SEMINAR</td><td>Lect</td><td>D+</td><td class="numAlign">1.00</td><td class="numAlign">1.33</td></tr><tr><td>LAW1000</td><td>BUSINESS LAW</td><td>Lect</td><td>B-</td><td class="numAlign">4.00</td><td class="numAlign">10.68</td></tr><tr><td>QTM1000</td><td>QM BUS ANALYTICS I</td><td>Lect</td><td>D</td><td class="numAlign">4.00</td><td class="numAlign">4.00</td></tr><tr><td>RHT1000</td><td>RHETORIC I</td><td>Lect</td><td>B</td><td class="numAlign">4.00</td><td class="numAlign">12.00</td></tr><tr class="noBorder"><td>WRT1000</td><td>INTS RHT WRITING TUT</td><td>Lect</td><td></td><td class="numAlign">0.00</td><td class="numAlign">0.00</td></tr></tbody></table><br></div><br><table cellpadding="4" cellspacing="0" border="0" class="defaultTable" width="100%" summary=""><tbody><tr class="trTableHeader"><th></th><th class="numAlign">Attempted Credit</th><th class="numAlign">Earned Credits</th><th class="numAlign">Total Credits</th><th class="numAlign">GPACredits</th><th class="numAlign">Transfer Credits</th><th class="numAlign">Quality Points</th><th class="numAlign">GPA</th></tr><tr align="right"><td><span class="label">Term:</span></td><td>16.00</td><td>16.00</td><td>16.00</td><td>16.00</td><td>0.00</td><td>35.00</td><td>2.19</td></tr><tr align="right" class="noBorder"><td><span class="label">Overall:</span></td><td>16.00</td><td>16.00</td><td>16.00</td><td>16.00</td><td>0.00</td><td>35.00</td><td>2.19</td></tr></tbody></table><br><div><h2 class="transcripts">2016 Spring (1/19/2016 - 5/13/2016)</h2></div><div><div><h3 class="transHeader3">Babson College</h3></div><table width="100%" cellpadding="4" cellspacing="0" class="defaultTable" border="0" summary=""><tbody><tr class="trTableHeader"><th>Course</th><th>Title</th><th>Sub Type</th><th>Grade</th><th class="numAlign">Credits</th><th class="numAlign">Quality Points</th></tr><tr><td>AHS1000</td><td>AHS FOUNDATION</td><td>Lect</td><td>C+</td><td class="numAlign">4.00</td><td class="numAlign">9.32</td></tr><tr><td>FME1001</td><td>FOUNDS MGMT &amp; EPS</td><td>Lect</td><td>C+</td><td class="numAlign">4.00</td><td class="numAlign">9.32</td></tr><tr><td>QTM1010</td><td>QM FOR BUS ANAL II</td><td>Lect</td><td>D+</td><td class="numAlign">4.00</td><td class="numAlign">5.32</td></tr><tr class="noBorder"><td>RHT1001</td><td>RHETORIC II</td><td>Lect</td><td>C-</td><td class="numAlign">4.00</td><td class="numAlign">6.68</td></tr></tbody></table><br></div><br><table cellpadding="4" cellspacing="0" border="0" class="defaultTable" width="100%" summary=""><tbody><tr class="trTableHeader"><th></th><th class="numAlign">Attempted Credit</th><th class="numAlign">Earned Credits</th><th class="numAlign">Total Credits</th><th class="numAlign">GPACredits</th><th class="numAlign">Transfer Credits</th><th class="numAlign">Quality Points</th><th class="numAlign">GPA</th></tr><tr align="right"><td><span class="label">Term:</span></td><td>16.00</td><td>16.00</td><td>16.00</td><td>16.00</td><td>0.00</td><td>30.64</td><td>1.92</td></tr><tr align="right" class="noBorder"><td><span class="label">Overall:</span></td><td>32.00</td><td>32.00</td><td>32.00</td><td>32.00</td><td>0.00</td><td>65.64</td><td>2.05</td></tr></tbody></table><br><div><h2 class="transcripts">2016 Fall (8/31/2016 - 12/17/2016)</h2></div><div><div><h3 class="transHeader3">Babson College</h3></div><table width="100%" cellpadding="4" cellspacing="0" class="defaultTable" border="0" summary=""><tbody><tr class="trTableHeader"><th>Course</th><th>Title</th><th>Sub Type</th><th>Grade</th><th class="numAlign">Credits</th><th class="numAlign">Quality Points</th></tr><tr><td>ACC1000</td><td>INTRO TO FIN ACCTG</td><td>Lect</td><td>D+</td><td class="numAlign">4.00</td><td class="numAlign">5.32</td></tr><tr><td>ECN2000</td><td>PRIN OF MACRO</td><td>Lect</td><td>C+</td><td class="numAlign">4.00</td><td class="numAlign">9.32</td></tr><tr><td>SME2011</td><td>PRIN OF MARKETING</td><td>Lect</td><td>C+</td><td class="numAlign">3.00</td><td class="numAlign">6.99</td></tr><tr><td>SME2012</td><td>MANG INFO TECH SYS</td><td>Lect</td><td>B</td><td class="numAlign">3.00</td><td class="numAlign">9.00</td></tr><tr class="noBorder"><td>SME2031</td><td>PRINCIPLES OF MICRO</td><td>Lect</td><td>C</td><td class="numAlign">3.00</td><td class="numAlign">6.00</td></tr></tbody></table><br></div><br><table cellpadding="4" cellspacing="0" border="0" class="defaultTable" width="100%" summary=""><tbody><tr class="trTableHeader"><th></th><th class="numAlign">Attempted Credit</th><th class="numAlign">Earned Credits</th><th class="numAlign">Total Credits</th><th class="numAlign">GPACredits</th><th class="numAlign">Transfer Credits</th><th class="numAlign">Quality Points</th><th class="numAlign">GPA</th></tr><tr align="right"><td><span class="label">Term:</span></td><td>17.00</td><td>17.00</td><td>17.00</td><td>17.00</td><td>0.00</td><td>36.63</td><td>2.15</td></tr><tr align="right" class="noBorder"><td><span class="label">Overall:</span></td><td>49.00</td><td>49.00</td><td>49.00</td><td>49.00</td><td>0.00</td><td>102.27</td><td>2.09</td></tr></tbody></table><br><div><h2 class="transcripts">2017 Spring (1/24/2017 - 5/20/2017)</h2></div><div><div><h3 class="transHeader3">Babson College</h3></div><table width="100%" cellpadding="4" cellspacing="0" class="defaultTable" border="0" summary=""><tbody><tr class="trTableHeader"><th>Course</th><th>Title</th><th>Sub Type</th><th>Grade</th><th class="numAlign">Credits</th><th class="numAlign">Quality Points</th></tr><tr><td>CVA2010</td><td>GENDER STUDIES</td><td>Lect</td><td>B</td><td class="numAlign">4.00</td><td class="numAlign">12.00</td></tr><tr><td>NST1030</td><td>ELECTRONICS</td><td>Lect</td><td>B</td><td class="numAlign">4.00</td><td class="numAlign">12.00</td></tr><tr><td>PHL4601</td><td>ANCIENT GREEK PHL</td><td>Lect</td><td>A-</td><td class="numAlign">4.00</td><td class="numAlign">14.68</td></tr><tr><td>SME2021</td><td>PRIN OF FINANCE</td><td>Lect</td><td>B-</td><td class="numAlign">3.00</td><td class="numAlign">8.01</td></tr><tr class="noBorder"><td>SME2041</td><td>SME INTEGRATION</td><td>Lect</td><td>P</td><td class="numAlign">1.00</td><td class="numAlign">0.00</td></tr></tbody></table><br></div><br><table cellpadding="4" cellspacing="0" border="0" class="defaultTable" width="100%" summary=""><tbody><tr class="trTableHeader"><th></th><th class="numAlign">Attempted Credit</th><th class="numAlign">Earned Credits</th><th class="numAlign">Total Credits</th><th class="numAlign">GPACredits</th><th class="numAlign">Transfer Credits</th><th class="numAlign">Quality Points</th><th class="numAlign">GPA</th></tr><tr align="right"><td><span class="label">Term:</span></td><td>16.00</td><td>16.00</td><td>16.00</td><td>15.00</td><td>0.00</td><td>46.69</td><td>3.11</td></tr><tr align="right" class="noBorder"><td><span class="label">Overall:</span></td><td>65.00</td><td>65.00</td><td>65.00</td><td>64.00</td><td>0.00</td><td>148.96</td><td>2.33</td></tr></tbody></table><br><div><h2 class="transcripts">2017 Fall (8/30/2017 - 12/16/2017)</h2></div><div><div><h3 class="transHeader3">Babson College</h3></div><table width="100%" cellpadding="4" cellspacing="0" class="defaultTable" border="0" summary=""><tbody><tr class="trTableHeader"><th>Course</th><th>Title</th><th>Sub Type</th><th>Grade</th><th class="numAlign">Credits</th><th class="numAlign">Quality Points</th></tr><tr><td>EPS3501</td><td>EPS AND OPPORTUNITY</td><td>Lect</td><td>B</td><td class="numAlign">4.00</td><td class="numAlign">12.00</td></tr><tr><td>HSS2000</td><td>MAKING OF MODERN AM</td><td>Lect</td><td>B</td><td class="numAlign">4.00</td><td class="numAlign">12.00</td></tr><tr><td>NST2020</td><td>STUDIES IN ECO MGMT</td><td>Lect</td><td>B-</td><td class="numAlign">4.00</td><td class="numAlign">10.68</td></tr><tr><td>SME2001</td><td>MANAGERIAL ACCT</td><td>Lect</td><td>C-</td><td class="numAlign">3.00</td><td class="numAlign">5.01</td></tr><tr class="noBorder"><td>SME2002</td><td>OPERATIONS MGMT</td><td>Lect</td><td>B-</td><td class="numAlign">3.00</td><td class="numAlign">8.01</td></tr></tbody></table><br></div><br><table cellpadding="4" cellspacing="0" border="0" class="defaultTable" width="100%" summary=""><tbody><tr class="trTableHeader"><th></th><th class="numAlign">Attempted Credit</th><th class="numAlign">Earned Credits</th><th class="numAlign">Total Credits</th><th class="numAlign">GPACredits</th><th class="numAlign">Transfer Credits</th><th class="numAlign">Quality Points</th><th class="numAlign">GPA</th></tr><tr align="right"><td><span class="label">Term:</span></td><td>18.00</td><td>18.00</td><td>18.00</td><td>18.00</td><td>0.00</td><td>47.70</td><td>2.65</td></tr><tr align="right" class="noBorder"><td><span class="label">Overall:</span></td><td>83.00</td><td>83.00</td><td>83.00</td><td>82.00</td><td>0.00</td><td>196.66</td><td>2.40</td></tr></tbody></table><br><div><h2 class="transcripts">2018 Spring (1/23/2018 - 5/12/2018)</h2></div><div><div><h3 class="transHeader3">Babson College</h3></div><table width="100%" cellpadding="4" cellspacing="0" class="defaultTable" border="0" summary=""><tbody><tr class="trTableHeader"><th>Course</th><th>Title</th><th>Sub Type</th><th>Grade</th><th class="numAlign">Credits</th><th class="numAlign">Quality Points</th></tr><tr><td>ASM3300</td><td>STRAT PROBLEM SOLVIN</td><td>Lect</td><td>A-</td><td class="numAlign">4.00</td><td class="numAlign">14.68</td></tr><tr><td>LVA2080</td><td>LITERATURE OF GUILT</td><td>Lect</td><td>B+</td><td class="numAlign">4.00</td><td class="numAlign">13.32</td></tr><tr><td>MKT4520</td><td>SALES IN ACTION</td><td>Lect</td><td>B</td><td class="numAlign">4.00</td><td class="numAlign">12.00</td></tr><tr class="noBorder"><td>MKT4560</td><td>GLBL MKT MGMT</td><td>Lect</td><td>B+</td><td class="numAlign">4.00</td><td class="numAlign">13.32</td></tr></tbody></table><br></div><br><table cellpadding="4" cellspacing="0" border="0" class="defaultTable" width="100%" summary=""><tbody><tr class="trTableHeader"><th></th><th class="numAlign">Attempted Credit</th><th class="numAlign">Earned Credits</th><th class="numAlign">Total Credits</th><th class="numAlign">GPACredits</th><th class="numAlign">Transfer Credits</th><th class="numAlign">Quality Points</th><th class="numAlign">GPA</th></tr><tr align="right"><td><span class="label">Term:</span></td><td>16.00</td><td>16.00</td><td>16.00</td><td>16.00</td><td>0.00</td><td>53.32</td><td>3.33</td></tr><tr align="right" class="noBorder"><td><span class="label">Overall:</span></td><td>99.00</td><td>99.00</td><td>99.00</td><td>98.00</td><td>0.00</td><td>249.98</td><td>2.55</td></tr></tbody></table><br><div><h2 class="transcripts">2018 Summer (5/21/2018 - 8/23/2018)</h2></div><div><div><h3 class="transHeader3">Babson College</h3></div><table width="100%" cellpadding="4" cellspacing="0" class="defaultTable" border="0" summary=""><tbody><tr class="trTableHeader"><th>Course</th><th>Title</th><th>Sub Type</th><th>Grade</th><th class="numAlign">Credits</th><th class="numAlign">Quality Points</th></tr><tr class="noBorder"><td>MOB2322</td><td>CAREER EXPLORATION</td><td>Lect</td><td>NCP</td><td class="numAlign">1.00</td><td class="numAlign">0.00</td></tr></tbody></table><br></div><br><table cellpadding="4" cellspacing="0" border="0" class="defaultTable" width="100%" summary=""><tbody><tr class="trTableHeader"><th></th><th class="numAlign">Attempted Credit</th><th class="numAlign">Earned Credits</th><th class="numAlign">Total Credits</th><th class="numAlign">GPACredits</th><th class="numAlign">Transfer Credits</th><th class="numAlign">Quality Points</th><th class="numAlign">GPA</th></tr><tr align="right"><td><span class="label">Term:</span></td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr><tr align="right" class="noBorder"><td><span class="label">Overall:</span></td><td>99.00</td><td>99.00</td><td>99.00</td><td>98.00</td><td>0.00</td><td>249.98</td><td>2.55</td></tr></tbody></table><br><div><h2 class="transcripts">2018 Fall (8/27/2018 - 12/15/2018)</h2></div><div><div><h3 class="transHeader3">Babson College</h3></div><table width="100%" cellpadding="4" cellspacing="0" class="defaultTable" border="0" summary=""><tbody><tr class="trTableHeader"><th>Course</th><th>Title</th><th>Sub Type</th><th>Grade</th><th class="numAlign">Credits</th><th class="numAlign">Quality Points</th></tr><tr><td>ECN3615</td><td>MONEY,BNK &amp; ECON</td><td>Lect</td><td></td><td class="numAlign">4.00</td><td class="numAlign">0.00</td></tr><tr><td>MIS3690</td><td>WEB TECHNOLOGIES</td><td>Lect</td><td></td><td class="numAlign">4.00</td><td class="numAlign">0.00</td></tr><tr><td>MKT4506</td><td>MARKETING ANALYTICS</td><td>Lect</td><td></td><td class="numAlign">4.00</td><td class="numAlign">0.00</td></tr><tr class="noBorder"><td>VSA4615</td><td>EARLY 20TH CENT ART</td><td>Lect</td><td></td><td class="numAlign">4.00</td><td class="numAlign">0.00</td></tr></tbody></table><br></div><br><br></div><div><div><br><table border="0" class="verticalTable" style="font-size:1.3em;"><tbody><tr><th>Total Credits Taken:</th><td align="right">99.00</td></tr><tr><th>Total Transfer Credits:</th><td align="right">0.00</td></tr><tr><th>Overall Credits:</th><td align="right">99.00</td></tr></tbody></table><br></div></div><div xmlns:ms="urn:schemas-microsoft-com:xslt"><br><hr class="thickline"></div><div align="center" style="padding: 30px;" xmlns:ms="urn:schemas-microsoft-com:xslt">End of Transcript</div><table border="0" style="border: solid 1px black" width="100%" xmlns:ms="urn:schemas-microsoft-com:xslt"><tbody><tr><td>Legend:<br>Babson College
+<br>
+Office of the Registrar
+<br>
+231 Forest Street • Babson Park, MA 02457
+<br>
+Tel: 781.239.4519 • Fax: 781.239.5618 • registrar@babson.edu • www.babson.edu/registrar
+<br>
+<br>
+<b>Babson College</b>
+<br>
+Babson College, founded in 1919, is a private, entrepreneurship-focused business school.  The College awards Bachelor of Science, Master of Business Administration, and Master of Science degrees as well as Advanced Accounting and Advanced Management certificates.
+<br>
+<br>
+<b>Accreditation</b>
+<br>
+Babson is accredited by NEASC (New England Association of Schools and Colleges), AACSB International (Association to Advance Collegiate Schools of Business), and EQUIS (EFMD Quality Improvement System).
+<br>
+<br>
+<b>Release of Transcript</b>
+<br>
+In accordance with the Family Educational Rights and Privacy Act (FERPA) of 1974, federal law prohibits access to this record by any other party without the written consent of the student.  Official transcripts are printed on Babson College letterhead, signed by the Registrar, and embossed with the College seal.
+<br>
+<br>
+<b>Honors</b>
+<br>
+<u>Undergraduate</u>
+<br>
+Honors are awarded upon graduation and based on cumulative grade point average.  The current ranges are:
+<br>
+Summa Cum Laude: 3.75 – 4.00
+<br>
+Magna Cum Laude: 3.50 – 3.74
+<br>
+Cum Laude: 3.30 – 3.49
+<br>
+<br>
+<u>Graduate</u>
+<br>
+Graduate Latin honors are calculated in May of each year and based on cumulative grade point average.  The current ranges are:
+<br>
+Summa Cum Laude: Students with the top 5% highest GPAs by program within the academic year
+<br>
+Magna Cum Laude: Students with the next 10% highest GPAs by program within the academic year
+<br>
+Cum Laude: Students with the next 10% highest GPAs by program within the academic year
+<br>
+<br>
+<b>Grading Systems and Notations</b>
+<br>
+<table>
+<tbody>
+<tr><td width="75px"><u>Grade</u></td><td><u>Numerical Value/Quality Points (4.00 Scale)</u></td></tr>
+<tr><td>A</td><td>4.00</td></tr>
+<tr><td>A-</td><td>3.67</td></tr>
+<tr><td>B+</td><td>3.33</td></tr>
+<tr><td>B</td><td>3.00</td></tr>
+<tr><td>B-</td><td>2.67</td></tr>
+<tr><td>C+</td><td>2.33</td></tr>
+<tr><td>C</td><td>2.00</td></tr>
+<tr><td>C-</td><td>1.67</td></tr>
+<tr><td>D+</td><td>1.33</td></tr>
+<tr><td>D</td><td>1.00</td></tr>
+<tr><td>D-</td><td>0.67</td></tr>
+<tr><td>F</td><td>0.00</td></tr>
+</tbody></table>
+<br>
+<table>
+<tbody>
+<tr><td width="75px" )=""><u>Notation</u></td><td><u>Explanation</u></td></tr>
+ <tr><td>*</td><td>Transfer, advanced standing, or waiver credit</td></tr>
+ <tr><td>AU</td><td>Audit</td></tr>
+ <tr><td>CR</td><td>Credit or Pass for a tutorial course</td></tr>
+ <tr><td>E...</td><td>Enrichment course, "E" is followed by the final letter grade or notation (example: EA-)</td></tr>
+ <tr><td>I</td><td>Incomplete</td></tr>
+ <tr><td>NC</td><td>No Credit</td></tr>
+ <tr><td>NCF</td><td>Non-Credit Fail</td></tr>
+ <tr><td>NCP</td><td>Non-Credit Pass</td></tr>
+ <tr><td>NP</td><td>No Pass</td></tr>
+ <tr><td>P</td><td>Pass</td></tr>
+ <tr><td>W</td><td>Withdrawal</td></tr>
+ <tr><td>WV</td><td>Waiver</td></tr>
+</tbody></table>
+<br>
+The term or semester grade point average (GPA) is calculated by multiplying the numerical value/quality points of each grade by the credit hours for each course.  The total of these products is divided by the total credit hours of the term (excluding *, CR, I, or W credit hours).  The cumulative GPA is calculated in the same manner as the term GPA.
+<br>
+</td></tr></tbody></table>
+		<span id="ctl00_mainContent_ucTranscript_PRuebaImpresione"></span>
+	
+
+	</div>
+	<br>
+    <div id="footer" style="display:none;">
+		PowerCampus® Self-Service 8.7.0 · 
+Copyright 1995 - 2016 Ellucian Company L.P. and its affiliates.
+    </div>
+    
+    
+    
+    
+<script language="JavaScript">
+var ResourceManager = new RM();
+function RM() { this.list = new Array(); };
+RM.prototype.AddString = function(key, value) { this.list[key] = value; };
+RM.prototype.GetString = function(key) { var result = this.list[key]; for (var i = 1; i < arguments.length; ++i) { result = result.replace('{' + (i-1) + '}', arguments[i]); } return result; };
+</script>
+
+
+
+</div></form></body></html>

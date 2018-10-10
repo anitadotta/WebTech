@@ -1,0 +1,80 @@
+<!DOCTYPE HTML>
+
+<html>
+    <head>
+            <meta charset="UTF-8">
+
+            <title>CS3-InClass</title>
+            <style type="text/css">
+                h1{
+                    color: navy;
+                    text-align: center;
+                    font-family: lucida bright;
+                    
+                }
+                form{
+
+                    background-color: silver;
+                    color: navy;
+                    margin-top:50px;
+                    margin-bottom: 50px;
+                    margin-right: 100px;
+                    margin-left:100px;
+                    padding-right:50px;
+                    padding-left:100px;
+                    padding-top:20px;
+                    padding-bottom:20px;
+                    font-family:  arial;
+                    
+
+                }
+            </style>
+    </head>
+    <body>
+        <h1>Web Forms - CS08-InClass</h1>
+        <form method="post">
+            Last name:<input type="text" name="lastname">
+            First name:<input type="text" name="firstname">
+            <br>
+            <br>
+            Gender: <input type="Radio" name="gender" value="Male">Male <input type="radio" name="gender" value="female">Female
+            <br>
+            <br>
+            My Favorite Web Tech topics are
+            <br>
+            <input type="checkbox" name="topics"> Basic HTML 
+            <br>
+            <input type="checkbox" name="topics"> CSS
+            <br>
+            <input type="checkbox" name="topics"> Tables
+            <br>
+            <input type="checkbox" name="topics"> Forms
+                        
+           <p>
+            What grade do you expect to receive?
+            <select name="grade">
+                    <option value="A">A</option>
+                    <OPTION value="B">B</OPTION>
+                    <option value="C">C</option>
+                    <option value="D">D</option>
+                    <option value="F">F</option>
+
+                </select>
+            </p>
+            <p>
+            Please add any comments you have.
+            </p>
+            <textarea name="comments" rows="5" cols="29"> </textarea>
+            <br>
+            <button type="submit" name="submit" value="submit">
+                SUBMIT <img src="mailbox.png" height="30"alt="submit_button"/>
+
+            </button> 
+            <button type="reset"name="reset" value="reset">
+                CLEAR <img src="reset.png" height="30"alt="reset_button"/>
+            </button> 
+        </form>
+        <a href="low.htm">My Work in WebTech</a>
+
+    </body>
+</html>

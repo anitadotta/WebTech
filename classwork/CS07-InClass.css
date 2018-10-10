@@ -1,0 +1,53 @@
+table{
+    color:green;
+    background-color:lightgoldenrodyellow;
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+    font-family: Arial;
+}
+tr,td{
+    border: 1px solid black;
+    padding:3px;
+    vertical-align:top;
+}
+
+img{
+    width: 100%;
+    
+}
+
+body{
+    background-image: url("jungle.jpg");
+}
+#img{
+    width:70%;
+}
+#lastcolumn{
+    width:30%;
+    background-color:rgb(245, 212, 26);
+}
+#caption{
+    width:70%;
+}
+#firstcell{
+    width:35%;
+}
+#secondcell{
+    width:35%;
+}
+p.scroll{
+    margin:auto;
+    color:white;
+    background-color:rgb(75, 160, 75);
+    width:250px;
+    height:300px;
+    overflow:scroll;
+    padding-right:10px;
+    padding-left:10px;
+}
+#LOW{
+    color:white;
+    background-color:black;
+    font-size: 15pt;
+}

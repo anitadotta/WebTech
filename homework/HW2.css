@@ -1,0 +1,44 @@
+#mf{
+    font-family: arial;
+    font-size: xx-large;
+    color:navy;
+    text-align: center;
+    
+}
+table{
+    margin-right: auto;
+    margin-left:auto;
+    background-color: gray;
+    width:70%;
+    margin-top: 10px;
+    margin-bottom:10px;
+    color:navy;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    border: 3px solid black;
+    
+}
+tr,td{
+    border: 2px solid black;
+
+}
+
+#heading{
+    background-color: white;
+    font-style: italic;
+    font-weight:bold;
+}
+
+td.firstrow{
+    background-color: yellow;
+    font-weight:bold;
+}
+
+tr.gold{
+    background-color: lime;
+}
+
+#img{
+    width: 50%;
+}
+
