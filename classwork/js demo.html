@@ -1,0 +1,28 @@
+<!doctype html>
+    <html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Web Tech</title>
+        <script type="text/javascript">
+            function calculate (){
+                let x = document.getElementById("a").innerHTML;
+                //alert(x);
+                let y = document.getElementById("b").innerHTML;
+               // alert ("current value of y is " + y);
+                let result = x * y;
+                //alert("The result is" + result);
+                document.getElementById("result").innerHTML = result;
+                document.getElementById("last").innerHTML=x % 10;
+
+            }
+        </script>
+    </head>
+    <body>
+        <h1></h1>
+        <p> x = <span id="a">2018</span>.</p>
+        <p>y = <span id="b">2019</span>.</p>
+        <p>The result of the calculation is <span id="result"></span>.</p>
+        <p>The last digit of x is <span id="last"></span>.</p>
+        <button onclick = "calculate()">Click Me!</button>
+    </body>
+</html>
