@@ -1,0 +1,83 @@
+body{
+    background-color: indianred;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+div.header{
+    font-family: Impact, sans-serif;
+    color:white;
+    font-size: 50px;
+    text-align: center;
+}
+a.nav{
+    color: white;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;  
+    padding: 25px;
+      
+    
+}
+div.navbar{
+    background-color:gray; 
+    text-align: center;
+    font-size: 30px;   
+}
+div.body{
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
+    background-color:gray;
+}
+div.end{
+    text-align: center;
+    background-color:gray;
+}
+
+#home{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 30px;
+}
+#me{
+    margin-left: 30px;
+    margin-bottom: 30px;
+    height: 3in;    
+}
+#cont{
+    background-color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left:450px;
+    padding-bottom: 20px;
+    
+}
+h1.contact{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    font-weight: normal;
+}
+table{
+    margin-right: 30px;
+    margin-left: 30px;
+}
+td.lobster{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    font-size: 14pt;
+}
+iframe{
+    padding-bottom: 30px;
+    margin-right:500px;
+    margin-left: 350px;
+    }
+#map{
+    background-color: gray;
+    padding-left: 450px;
+    padding-bottom: 70px;
+}
+#ati{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 20px;
+}
+td.hello{
+    padding: 20px;
+}
