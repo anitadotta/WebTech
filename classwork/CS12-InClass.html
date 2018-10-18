@@ -13,8 +13,8 @@
             }
         </style>
         <script type="text/javascript">
-            function enlarge(){
-                let i = document.getElementById("map");
+            function enlarge(x){
+                let i = document.getElementById(x);
                 let w = i.width; 
                 i.width = w * (1 + 0.5);
                 //alert ("w " + w + ". The Current width " + i.width);
@@ -22,12 +22,20 @@
                 
             };
 
-            function shrink(){
-                let i = document.getElementById("map");
+            function shrink(y){
+                let i = document.getElementById(y);
                 let w = i.width; 
                 i.width = w / (1 + 0.5);
-                i.style.border = "none"
+                i.style.border = "none";
 
+            }
+
+            function check (){
+                let i = document.getElementById(x);
+                let w = i.width; 
+                i.width = w * (1 + 0.5);
+                //alert ("w " + w + ". The Current width " + i.width);
+                i.style.border = "red 3px solid"
             }
 
         </script>
@@ -36,12 +44,13 @@
     <body>
 
         <h2> Manipulating Styles and Images </h2>
+        <button onclick=" check()">Check X</button>
 
-        <p><img src="usa.png" alt="Image goes here" title="map of USA" width="400" onmouseover="enlarge()" onmouseout="shrink()"id ="map"></p>
+        <p><img src="usa.png" alt="Image goes here" title="map of USA" width="400" onmouseover="enlarge(this.id)" onmouseout="shrink(this.id)"id ="map"></p>
 
         <hr>
 
-        <p><img src="Croatia.png" onmouseover="enlarge()" onmouseout="shrink()" id ="second"></p>
+        <p><img src="Croatia.png" alt="Image goes here" title="map of USA" width="400" onmouseover="enlarge(this.id)" onmouseout="shrink(this.id)" id ="second"></p>
 
     </body>
 
