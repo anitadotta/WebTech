@@ -35,31 +35,47 @@
             }
         </style>
         <script type="text/javascript">
-        function show(){
+        function show(x){
                       
             if (x =="german"){
                 document.getElementById("image").src ="shepherd.jpg";
                 document.getElementById("image").style.borderColor="yellow";
                 document.getElementById("header").innerHTML="German Shepherd"
                 document.getElementById("german").style.backgroundColor="silver";
+
+                document.getElementById("penguin").style.backgroundColor="white";
+                document.getElementById("leopard").style.backgroundColor="white";
+                document.getElementById("lynx").style.backgroundColor="white";
             }
             else if (x=="penguin"){
                 document.getElementById("image").src = "penguin.jpg";
                 document.getElementById("image").style.borderColor="red";
                 document.getElementById("header").innerHTML="Penguin"
                 document.getElementById("penguin").style.backgroundColor="silver";
+
+                document.getElementById("leopard").style.backgroundColor="white";
+                document.getElementById("lynx").style.backgroundColor="white";
+                document.getElementById("german").style.backgroundColor="white";
             }
             else if (x== "leopard"){
                 document.getElementById("image").src ="snowleopard.jpg";
                 document.getElementById("image").style.borderColor="green";
                 document.getElementById("header").innerHTML="Snow Leopard"
                 document.getElementById("leopard").style.backgroundColor="silver";
+
+                document.getElementById("penguin").style.backgroundColor="white";
+                document.getElementById("lynx").style.backgroundColor="white";
+                document.getElementById("german").style.backgroundColor="white";
             }
             else if (x=="lynx"){
                 document.getElementById("image").src="lynx.jpg";
                 document.getElementById("image").style.borderColor="lime";
                 document.getElementById("header").innerHTML="Lynx"
                 document.getElementById("lynx").style.backgroundColor="silver";
+
+                document.getElementById("penguin").style.backgroundColor="white";
+                document.getElementById("leopard").style.backgroundColor="white";
+                document.getElementById("german").style.backgroundColor="white";
             }
         }
   
@@ -86,7 +102,7 @@
 
         <p class="cent">
 
-            <img src="" alt="Image Goes Here" title="Animal Name" id="image" onmouseover="enlarge(this.id)" onmouseout="shrink(this.id)">
+            <img src="" alt="Image Goes Here" width="400" title="Animal Name" id="image" onmouseover="enlarge(this.id)" onmouseout="shrink(this.id)">
         </p>
         <p class="cent">
             <button onclick="show(this.id)"  id="german">German Shepherd</button>
