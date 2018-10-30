@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <title>Slide Show</title>
+        <style type="text/css">
+            p {
+                text-align: center;
+            }
+            img {
+                border-width: 10px;
+                border-style: solid;
+            }
+        </style>
+
+        <script type="text/javascript">
+        let slides = new Array("tiger1.jpg", "tiger2.jpg", "tiger3.jpg", "tiger4.jpg");
+        let borderColor = new Array("blue", "green", "yellow", "red");
+        let descriptions = new Array("tiger walking", "tiger sitting","tiger looking","two tigers");
+        let i = 0;
+        let counter = 0;
+            function slideShow (){
+                let img = document.getElementById("tiger");
+                if (i == slides.length){
+                    i = 0;
+                }
+                img.src=slides[i],
+                img.style.borderColor=borderColor[i];
+                document.getElementById("description").innerHTML = descriptions[i] + "<br>Global Counter = " + counter + "<br>Local counter = " + i;
+                i++;
+                counter++;
+                setTimeout("slideShow()",1000);
+               
+                                                  
+            }
+        </script>
+    </head>
+
+    <body onload="slideShow()">
+        <p>
+            <img id="tiger" src="" alt="Slide Show of Tigers" title="Tigers"/>
+        </p>
+        <span id="description"></span></p>
+        
+
+    </body>    
+        
+</html>
+
+    
