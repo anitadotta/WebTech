@@ -57,6 +57,9 @@
                     let random2 = Math.floor(Math.random() * word2.length);
                     let random3 = Math.floor(Math.random() * word3.length);
                     form.results.value = word1[random1] + " " + word2[random2] + " " + word3[random3];
+                    
+                    
+                   
                 }
                 
               
@@ -112,7 +115,7 @@
                 </select>
             </p>
 
-            <button onclick="buttonclick()">Random Sentence Generator</button>
+            <button onclick='buttonclick();return false;'>Random Sentence Generator</button>
         </form>
 
     </body>
